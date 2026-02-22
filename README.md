@@ -33,7 +33,7 @@ sudo systemctl stop tor
 
 How to install: 
 ```
-git clone https://github.com/Medoo2611/linux_Ip_changer
+https://github.com/Medoo2611/linux_Ip_changer.git
 cd linux_Ip_changer
 chmod +x linux_Ip_changer.sh
 ```
